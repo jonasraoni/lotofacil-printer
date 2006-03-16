@@ -1,3 +1,9 @@
+{*
+ * Object Tree: Object tree written in Pascal/Delphi
+ * Jonas Raoni Soares da Silva <http://raoni.org>
+ * https://github.com/jonasraoni/object-tree
+ *}
+
 unit Game;
 
 interface
