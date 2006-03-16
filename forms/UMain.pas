@@ -1,7 +1,7 @@
 {*
- * Object Tree: Object tree written in Pascal/Delphi
+ * Lotofacil Printer: Application in Object Pascal (Delphi) to print Lotofácil tickets.
  * Jonas Raoni Soares da Silva <http://raoni.org>
- * https://github.com/jonasraoni/object-tree
+ * https://github.com/jonasraoni/lotofacil-printer
  *}
 
 unit UMain;
